@@ -18,7 +18,7 @@ Data Scientist | Data Analyst
 
 🚀 Let’s talk!
 
-* 🌍  I'm based in Chile
+* 🌍  I'm currently based in South Africa
 * ✉️  You can contact me at [j.ibarralemp@outlook.es](mailto:j.ibarralemp@outlook.es)
 * 🧠  I'm learning Feature Engineering, Multivariate Time Series and LLMs
 * 🤝  I'm open to collaborating on interesting projects
