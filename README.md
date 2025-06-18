@@ -1,10 +1,10 @@
 Hi :wave: My name is José Ignacio Ibarra
 ===========================================================================================================================================
 
-Data Scientist | Data Analyst
+Business Analyst
 -----------------------------
 
-📊 From Wine to Data Science: A Data-Driven Journey My professional journey began in the vineyards, where I learned that behind every great wine lies a precise combination of science, art, and data. For years, I focused on optimizing sales and marketing strategies in the wine industry, using data analysis to understand consumer behavior and maximize business opportunities. But there was something else that fascinated me: the power of data to predict trends and make strategic decisions with greater precision. This interest led me to transform my career and dive into the world of Data Science and Machine Learning. Today, I combine my expertise in data analysis with a strong focus on artificial intelligence, specializing in predictive models and process optimization.
+📊 From Wine to Analytics: A Data-Driven Journey My professional journey began in the vineyards, where I learned that behind every great wine lies a precise combination of science, art, and data. For years, I focused on optimizing sales and marketing strategies in the wine industry, using data analysis to understand consumer behavior and maximize business opportunities. But there was something else that fascinated me: the power of data to predict trends and make strategic decisions with greater precision. This interest led me to transform my career and dive into the world of Data Science and Machine Learning. Today, I combine my expertise in data analysis with a strong focus on artificial intelligence, specializing in predictive models and process optimization.
 
 🚀 What sets me apart?
 
